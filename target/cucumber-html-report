@@ -1,0 +1,9 @@
+@tag
+Feature: Title of your feature
+  I want to use this template for my feature file
+
+  @tag1
+  Scenario: Title of your scenario                 [90m# myFeature.feature:6[0m
+    [32mGiven [0m[32mI want to write a step with precondition[0m [90m# Steps.i_want_to_write_a_step_with_precondition()[0m
+    [32mWhen [0m[32mI complete action[0m                         [90m# Steps.i_complete_action()[0m
+    [32mThen [0m[32mI validate the outcomes[0m                   [90m# Steps.i_validate_the_outcomes()[0m
